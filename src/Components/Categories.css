@@ -1,0 +1,6 @@
+.contain {
+  display: flex;
+}
+.item {
+  flex: 1;
+}

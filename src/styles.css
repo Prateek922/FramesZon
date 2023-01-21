@@ -1,0 +1,58 @@
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* #Banner {
+  width: 99%;
+} */
+
+.magazine-img {
+  max-height:90vh;
+  /* width:100%; */
+}
+
+.Magazine {
+  font-family: "Source Sans Pro", sans-serif;
+  width:90%;
+}
+
+.Magazine div p{
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+font-weight: 900;
+font-size: 2vw;
+line-height: 43px;
+letter-spacing: 0.08em;
+color: #0F172A;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.mag-text{
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 25px;
+letter-spacing: 0.08em;
+
+color: #000000;
+}
+
+.service-container{
+  background: #65767f;
+  opacity: 0.8;
+  border: 1px solid #BBBCC0;
+  box-shadow: 0px 8px 8px rgba(1, 1, 1, 0.25);
+  border-radius: 10px;
+  color: #BBBCC0;
+  padding:6%;
+  height: 170px;
+  margin-top: 50px;
+}
+.img-container{
+  padding:1%;
+}
+.heading-font{
+  color: #FFFFFF;
+}
